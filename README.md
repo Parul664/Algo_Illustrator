@@ -12,7 +12,9 @@ Please find the video attached for the sample animation [here](https://bit.ly/2J
 Algorithm: Dijkstra Shortest Path 
 
 ##### Input Graph:
+
 Vertices: 6
+
 Edges: [[1,2],[2,3],[3,4],[1,3],[1,4],[5,1]]
 
 
