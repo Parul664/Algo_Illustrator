@@ -7,7 +7,13 @@ Algo-Illustrator aims at developing a Graphical User Interface for students for 
 ## Tools used:
 The project is developed in python with the help of pygame and Tkinter without the help of graph plotting libraries like Networkx in python.
 
-Please find the video attached for the sample animation:
+Please find the video attached for the sample animation [here](https://bit.ly/2JCEBu0)
+
+Algorithm: Dijkstra Shortest Path 
+
+##### Input Graph:
+Vertices: 6
+Edges: [[1,2],[2,3],[3,4],[1,3],[1,4],[5,1]]
 
 
 
